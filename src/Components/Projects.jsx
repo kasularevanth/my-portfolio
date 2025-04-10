@@ -24,6 +24,14 @@ const Projects = () => {
       },
       {
         photo: "img/web3.png",
+        name: "EcommerceZara",
+        description:
+          "To build a responsive and user-friendly eCommerce platform similar to Zara with features like product browsing, filtering, and secure checkout.",
+        source: "https://github.com/kasularevanth/Ecommerce-Zara",
+        demo: "https://ecommercezara.netlify.app/",
+      },
+      {
+        photo: "img/web3.png",
         name: "Web3",
         description:
           "A cryptocurrency-style web page, focusing on sleek UI and modern CSS techniques.",
