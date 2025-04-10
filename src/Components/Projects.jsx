@@ -23,7 +23,7 @@ const Projects = () => {
         demo: "#",
       },
       {
-        photo: "img/web3.png",
+        photo: "https://play-lh.googleusercontent.com/Etar8ijdCl_bYMpgCEnHlS505Dkgh-BmUJjmQCSlzyv-8o8Acp7BFxfFiGtju1DTMuqT",
         name: "EcommerceZara",
         description:
           "To build a responsive and user-friendly eCommerce platform similar to Zara with features like product browsing, filtering, and secure checkout.",
